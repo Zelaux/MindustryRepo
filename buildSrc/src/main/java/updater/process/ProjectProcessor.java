@@ -90,8 +90,9 @@ sourceFolder.deleteDirectory();
         }
         pb.directory(sourceFolder.file());
 //        pb.inheritIO();
-        pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
-        pb.redirectOutput(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
+        Fi build_log_file = Vars.sources.child("build.log");
+        pb.redirectError(ProcessBuilder.Redirect.to(build_log_file.file()));
+        pb.redirectOutput(ProcessBuilder.Redirect.to(build_log_file.file()));
 //        pb.redirectOutput(new ProcessBuilder().redirectOutput());
         /*FileDescriptor.out
         new File()
@@ -125,7 +126,12 @@ sourceFolder.deleteDirectory();
             System.in.read();
         }else{
             Process p = pb.start();
-            p.waitFor();
+            int processResult=            p.waitFor();
+            if(processResult!=0){
+                System.err.println("build.log : ");
+                System.err.println(build_log_file.readString());
+                throw new RuntimeException("Error while building");
+            }
         }
         System.out.println("Processing maven repo");
         tmpRepository.walk(it -> {
