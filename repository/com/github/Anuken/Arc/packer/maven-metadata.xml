@@ -3,14 +3,15 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>packer</artifactId>
     <versioning>
-        <latest>v149</latest>
-        <release>v149</release>
+        <latest>v150</latest>
+        <release>v150</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
             <version>v146</version>
             <version>v147</version>
             <version>v149</version>
+            <version>v150</version>
         </versions>
         <lastUpdated>20230810012812</lastUpdated>
     </versioning>
