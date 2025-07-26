@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "profiling",
+    "version": "v150.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "profiling-v150.1.jar",
+          "url": "profiling-v150.1.jar",
+          "size": 24660,
+          "sha512": "44e66012581d281f23e6b119e50fadabb9d1f027f51d3baae2eb4068f3277dbe116fa4c3959ee2c89128dad6af07bcde5730504981a877405a36314f33bbe1e0",
+          "sha256": "57ec3f9323572037758b9d36f91d20428f57fa9b34b8b449cf2d05e30def5077",
+          "sha1": "4299c4dd56b56c55ce5c3e4aaada219f37dd3289",
+          "md5": "32a6707494d0559eeca6bc7742c6b641"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "profiling-v150.1.jar",
+          "url": "profiling-v150.1.jar",
+          "size": 24660,
+          "sha512": "44e66012581d281f23e6b119e50fadabb9d1f027f51d3baae2eb4068f3277dbe116fa4c3959ee2c89128dad6af07bcde5730504981a877405a36314f33bbe1e0",
+          "sha256": "57ec3f9323572037758b9d36f91d20428f57fa9b34b8b449cf2d05e30def5077",
+          "sha1": "4299c4dd56b56c55ce5c3e4aaada219f37dd3289",
+          "md5": "32a6707494d0559eeca6bc7742c6b641"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "profiling-v150.1-sources.jar",
+          "url": "profiling-v150.1-sources.jar",
+          "size": 11323,
+          "sha512": "64990762179ae836d035cbf3c4445286e735890a02fa61a1bb38cbbf0a45c522b5aa29ed9aac0673fabdef5aa780ad03ac52b353ab031cd2e98db5c17dd75431",
+          "sha256": "8e50c9ed775d18d5be348109f1c79e1c18ac924d305b9a2827921891c18805fd",
+          "sha1": "585394a1516a646f6838a0f5e2564ad9e68d9763",
+          "md5": "17b40c9ea716d35ac724d58296cb80f0"
+        }
+      ]
+    }
+  ]
+}
