@@ -28,5 +28,5 @@ jobs:
           git config --global user.email "cli@github.com"
           git config --global user.name "Github Actions"
           git add *
-          git commit -m "[version-update]"
+          git commit -m "[version-update]" || echo "Nothing to commit"
           git push https://Zelaux:${{ secrets.API_TOKEN_GITHUB }}@github.com/Zelaux/MindustryRepo
