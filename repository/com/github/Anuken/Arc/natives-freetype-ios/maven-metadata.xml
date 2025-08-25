@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>natives-freetype-ios</artifactId>
     <versioning>
-        <latest>v150.1</latest>
-        <release>v150.1</release>
+        <latest>v151</latest>
+        <release>v151</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -13,6 +13,7 @@
             <version>v149</version>
             <version>v150</version>
             <version>v150.1</version>
+            <version>v151</version>
         </versions>
         <lastUpdated>20230810012822</lastUpdated>
     </versioning>

@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives",
+    "version": "v151",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-v151.jar",
+          "url": "natives-v151.jar",
+          "size": 261,
+          "sha512": "9764138972d3ba091e3235d7d9f138491b16b0c2349e24e16d2788ff11a1a80167c2febc1a1146e65a62f45cecdc1d242bc22e05f99013637474f5fe9d032061",
+          "sha256": "cacc42f61cb2a9fb15c04a4f0dbec3b7722207dd4b6b3529ad8666a9a2190c91",
+          "sha1": "2e1b5cc04be1aee068b387a25256c7ce2ca3125a",
+          "md5": "cc5e47d4efe0286ebc33273b49753953"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-v151.jar",
+          "url": "natives-v151.jar",
+          "size": 261,
+          "sha512": "9764138972d3ba091e3235d7d9f138491b16b0c2349e24e16d2788ff11a1a80167c2febc1a1146e65a62f45cecdc1d242bc22e05f99013637474f5fe9d032061",
+          "sha256": "cacc42f61cb2a9fb15c04a4f0dbec3b7722207dd4b6b3529ad8666a9a2190c91",
+          "sha1": "2e1b5cc04be1aee068b387a25256c7ce2ca3125a",
+          "md5": "cc5e47d4efe0286ebc33273b49753953"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-v151-sources.jar",
+          "url": "natives-v151-sources.jar",
+          "size": 261,
+          "sha512": "9764138972d3ba091e3235d7d9f138491b16b0c2349e24e16d2788ff11a1a80167c2febc1a1146e65a62f45cecdc1d242bc22e05f99013637474f5fe9d032061",
+          "sha256": "cacc42f61cb2a9fb15c04a4f0dbec3b7722207dd4b6b3529ad8666a9a2190c91",
+          "sha1": "2e1b5cc04be1aee068b387a25256c7ce2ca3125a",
+          "md5": "cc5e47d4efe0286ebc33273b49753953"
+        }
+      ]
+    }
+  ]
+}
