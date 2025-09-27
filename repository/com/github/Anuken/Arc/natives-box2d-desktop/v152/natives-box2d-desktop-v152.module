@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives-box2d-desktop",
+    "version": "v152",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-box2d-desktop-v152.jar",
+          "url": "natives-box2d-desktop-v152.jar",
+          "size": 512159,
+          "sha512": "cf93e182b29e8eb5e2e4a2e57fdd592ba8d35faf5a99cc52973035d2a4a7fa89834022325beb48c2cc814bf3b17f77dc6881b9d83f9a8114a75d8712a01eafde",
+          "sha256": "17b5d09de14dbc11ea21cbf903288cc8a0b465fcdaad922afb2671573b0a947c",
+          "sha1": "f2693d838d986e473036c4f62b4992e38bb99ade",
+          "md5": "1dbfa6a4b253f67ed8f3d561c91c5440"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-box2d-desktop-v152.jar",
+          "url": "natives-box2d-desktop-v152.jar",
+          "size": 512159,
+          "sha512": "cf93e182b29e8eb5e2e4a2e57fdd592ba8d35faf5a99cc52973035d2a4a7fa89834022325beb48c2cc814bf3b17f77dc6881b9d83f9a8114a75d8712a01eafde",
+          "sha256": "17b5d09de14dbc11ea21cbf903288cc8a0b465fcdaad922afb2671573b0a947c",
+          "sha1": "f2693d838d986e473036c4f62b4992e38bb99ade",
+          "md5": "1dbfa6a4b253f67ed8f3d561c91c5440"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-box2d-desktop-v152-sources.jar",
+          "url": "natives-box2d-desktop-v152-sources.jar",
+          "size": 512159,
+          "sha512": "d7d32fd83e32ae99bb3ed1f12aecfb9e968b24d7bacf226e034695a3fb068c6636154f37fdeb4fbc8acfb031b71bb3d598ea1dde1441c6cc44e3c72e9e8bcf4e",
+          "sha256": "b11402090d827d4eeb8428b2a49852df4585058226e66144bec7ee38492365f3",
+          "sha1": "68649c748b5abb05b0b557ef348388802b3e6ca6",
+          "md5": "c8bf75f083a2b0fe2531b3069732b025"
+        }
+      ]
+    }
+  ]
+}
