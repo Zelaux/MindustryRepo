@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>arcnet</artifactId>
     <versioning>
-        <latest>v152.1</latest>
-        <release>v152.1</release>
+        <latest>v152.2</latest>
+        <release>v152.2</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -17,6 +17,7 @@
             <version>v151.1</version>
             <version>v152</version>
             <version>v152.1</version>
+            <version>v152.2</version>
         </versions>
         <lastUpdated>20230810012804</lastUpdated>
     </versioning>
