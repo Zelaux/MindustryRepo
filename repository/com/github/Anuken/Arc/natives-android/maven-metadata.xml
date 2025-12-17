@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>natives-android</artifactId>
     <versioning>
-        <latest>v153</latest>
-        <release>v153</release>
+        <latest>v154</latest>
+        <release>v154</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -19,6 +19,7 @@
             <version>v152.1</version>
             <version>v152.2</version>
             <version>v153</version>
+            <version>v154</version>
         </versions>
         <lastUpdated>20230810012816</lastUpdated>
     </versioning>
