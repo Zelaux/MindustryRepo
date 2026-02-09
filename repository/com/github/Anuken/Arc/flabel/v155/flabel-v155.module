@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "flabel",
+    "version": "v155",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "flabel-v155.jar",
+          "url": "flabel-v155.jar",
+          "size": 33718,
+          "sha512": "0edeeba2a4085b78092f8588b9e0e31a7c2028f72d1b751397f549be06092d3995b2d113ab4250d8e3d5f3731393c2a35fb9e86248fcdc854be5c8cba957ca3c",
+          "sha256": "4f5a6dc0d6d1b174ef3d78ed56a66a5acf77a892961012d561c8d13bc6aafa71",
+          "sha1": "1f174a958592f78a4f8e3c53edba4ba53872fd97",
+          "md5": "0ebf632c014219bf753ba6bbc8f67dcd"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flabel-v155.jar",
+          "url": "flabel-v155.jar",
+          "size": 33718,
+          "sha512": "0edeeba2a4085b78092f8588b9e0e31a7c2028f72d1b751397f549be06092d3995b2d113ab4250d8e3d5f3731393c2a35fb9e86248fcdc854be5c8cba957ca3c",
+          "sha256": "4f5a6dc0d6d1b174ef3d78ed56a66a5acf77a892961012d561c8d13bc6aafa71",
+          "sha1": "1f174a958592f78a4f8e3c53edba4ba53872fd97",
+          "md5": "0ebf632c014219bf753ba6bbc8f67dcd"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flabel-v155-sources.jar",
+          "url": "flabel-v155-sources.jar",
+          "size": 20633,
+          "sha512": "1de42db60956e95c4ee72305caa071de77805916262d74c4b11b7f0d6ac0387f50631b604e604ba10de2453e43163fa4bc50f6a504d55656a3b17b8fc8468b7c",
+          "sha256": "d1571477885ae89eb8f9d995a35ee6956f25060fac2c273c5bce8c1bbbef9844",
+          "sha1": "526ec6fc9b658491e98974c6a4b256a71825340f",
+          "md5": "b5a1f4b9fd4ca7aeca92877b1e797098"
+        }
+      ]
+    }
+  ]
+}
