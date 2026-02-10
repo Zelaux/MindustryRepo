@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "packer",
+    "version": "v155.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "packer-v155.1.jar",
+          "url": "packer-v155.1.jar",
+          "size": 52630,
+          "sha512": "333c00b4fafdbe56ff2ff0c3c5eb7623445050406149708c1121a028e1c64ad85debd22c5a0caddf48bc25658948f6751e2c5d7eb52735e4b2a99dc5d4730eef",
+          "sha256": "3e521dc38c1cc8f7ab5fd97d32a5713e81a88fd3e62137dea688252fc54c7f47",
+          "sha1": "1224da73bdd5461e6d002ccdc3a13f68042ae8ad",
+          "md5": "96e575ebde08d354ed6dea91dfa0649f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "packer-v155.1.jar",
+          "url": "packer-v155.1.jar",
+          "size": 52630,
+          "sha512": "333c00b4fafdbe56ff2ff0c3c5eb7623445050406149708c1121a028e1c64ad85debd22c5a0caddf48bc25658948f6751e2c5d7eb52735e4b2a99dc5d4730eef",
+          "sha256": "3e521dc38c1cc8f7ab5fd97d32a5713e81a88fd3e62137dea688252fc54c7f47",
+          "sha1": "1224da73bdd5461e6d002ccdc3a13f68042ae8ad",
+          "md5": "96e575ebde08d354ed6dea91dfa0649f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "packer-v155.1-sources.jar",
+          "url": "packer-v155.1-sources.jar",
+          "size": 24170,
+          "sha512": "1d07edea1287487d45c1b4cf6070b0aad7ddc17d9d8c5c2b62f3855129d7ffb697c0a1c7b53963f17d2fcd8adc58ff547765ce81e23ec9785532b66f84942906",
+          "sha256": "beeacd599b78106fcb975ccd080d6c05ac308be5b9f58ce2cef356ffd54e4c52",
+          "sha1": "5a0f9a5369e8e2d7951bc3756ad936eb32221fe6",
+          "md5": "7ef872affb116b00e47fd67859a3c500"
+        }
+      ]
+    }
+  ]
+}
