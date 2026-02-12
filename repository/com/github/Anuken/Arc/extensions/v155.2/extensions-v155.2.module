@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "extensions",
+    "version": "v155.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "extensions-v155.2.jar",
+          "url": "extensions-v155.2.jar",
+          "size": 261,
+          "sha512": "59ee800d60de5a480e868df03bf02a5260ced485be808e64841a29e423e1a8cf6370ac3fa911dc9aa14c94896ff71b2fec384dac7fc4be9b3eed7cdc98a570d5",
+          "sha256": "5c3447309e34c74f16e311854ae74517b32a508a476692b307484bee2557c810",
+          "sha1": "28b59224fae1a137b8e3b87f49770ab124a66e08",
+          "md5": "23299396d236b77b1d8dfa74de35eb66"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "extensions-v155.2.jar",
+          "url": "extensions-v155.2.jar",
+          "size": 261,
+          "sha512": "59ee800d60de5a480e868df03bf02a5260ced485be808e64841a29e423e1a8cf6370ac3fa911dc9aa14c94896ff71b2fec384dac7fc4be9b3eed7cdc98a570d5",
+          "sha256": "5c3447309e34c74f16e311854ae74517b32a508a476692b307484bee2557c810",
+          "sha1": "28b59224fae1a137b8e3b87f49770ab124a66e08",
+          "md5": "23299396d236b77b1d8dfa74de35eb66"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "extensions-v155.2-sources.jar",
+          "url": "extensions-v155.2-sources.jar",
+          "size": 261,
+          "sha512": "59ee800d60de5a480e868df03bf02a5260ced485be808e64841a29e423e1a8cf6370ac3fa911dc9aa14c94896ff71b2fec384dac7fc4be9b3eed7cdc98a570d5",
+          "sha256": "5c3447309e34c74f16e311854ae74517b32a508a476692b307484bee2557c810",
+          "sha1": "28b59224fae1a137b8e3b87f49770ab124a66e08",
+          "md5": "23299396d236b77b1d8dfa74de35eb66"
+        }
+      ]
+    }
+  ]
+}
