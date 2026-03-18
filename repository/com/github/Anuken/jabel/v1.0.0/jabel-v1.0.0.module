@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken",
+    "module": "jabel",
+    "version": "v1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "jabel-v1.0.0.jar",
+          "url": "jabel-v1.0.0.jar",
+          "size": 2840,
+          "sha512": "0c46867e79d6443d9cf1abc3e732d09986883b9c24fe551662a57a7868ade2980640ab10857d319538b19d0d0f65ca33aa27e6d49bf667f732eea39483a7b8c2",
+          "sha256": "cf07e0e8d3f5834d1b08b9119810493cffed25ae4ab94c03c2c08da63e2840ff",
+          "sha1": "d5a171874bb9ff9b164a04905b6e9896dd69742d",
+          "md5": "4ccd2b98e5daf5c0094f4e48a231f309"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "jabel-v1.0.0.jar",
+          "url": "jabel-v1.0.0.jar",
+          "size": 2840,
+          "sha512": "0c46867e79d6443d9cf1abc3e732d09986883b9c24fe551662a57a7868ade2980640ab10857d319538b19d0d0f65ca33aa27e6d49bf667f732eea39483a7b8c2",
+          "sha256": "cf07e0e8d3f5834d1b08b9119810493cffed25ae4ab94c03c2c08da63e2840ff",
+          "sha1": "d5a171874bb9ff9b164a04905b6e9896dd69742d",
+          "md5": "4ccd2b98e5daf5c0094f4e48a231f309"
+        }
+      ]
+    }
+  ]
+}
