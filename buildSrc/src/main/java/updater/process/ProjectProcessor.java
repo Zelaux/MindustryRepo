@@ -79,6 +79,19 @@ sourceFolder.deleteDirectory();
                 sourceFolder.child("gradle.properties").writeString(s);
             }
         }
+
+        enforceCompatibleGradleWrapper:
+        {
+            Fi wrapperProperties = sourceFolder.child("gradle/wrapper/gradle-wrapper.properties");
+            if(wrapperProperties.exists()){
+                String content = wrapperProperties.readString();
+                String updated = content.replaceAll("distributionUrl=.*", "distributionUrl=https\\://services.gradle.org/distributions/gradle-8.10-bin.zip");
+                if(!content.equals(updated)){
+                    wrapperProperties.writeString(updated);
+                }
+            }
+        }
+
         System.out.println("gradlew publishFolder");
         ProcessBuilder pb;
         if(OS.isLinux){
