@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "filedialogs-v156.1.jar",
           "url": "filedialogs-v156.1.jar",
           "size": 1039,
+<<<<<<< HEAD
           "sha512": "f54e16a6e0095133db7978f51f2898f1314cb1507bf88a89888a07b1d4f870667949235200118939b15119a3d9d734a2fe92ab513626342d6c8d915343f41c18",
           "sha256": "79405acfb7adac53fd6b815e1cdce4d302013b52a1da777604f5ee0fbf0c98db",
           "sha1": "aa08cfb39b38c1816799c861546b1107e88d81c6",
           "md5": "0ada8e4bf917e68753b5c1b7f259d21b"
+=======
+          "sha512": "0d52aa774f4f69ebd7d247173b6f27ac4d3582a0d524fff2c7f9db2f4f4d923b1b575ad8ee3dc97541668b1bc4c16dab8cd1d8962685c2ef5e111a68db1c1520",
+          "sha256": "1e5a3873e3923b947ba4786066e3ea5de24fa3efdd385e49ccd5ab9b7459c3c1",
+          "sha1": "771194648f434e52247cee68f1d57837b266a73b",
+          "md5": "343a7dbcebeb54f521305e1d0f76d799"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "filedialogs-v156.1.jar",
           "url": "filedialogs-v156.1.jar",
           "size": 1039,
+<<<<<<< HEAD
           "sha512": "f54e16a6e0095133db7978f51f2898f1314cb1507bf88a89888a07b1d4f870667949235200118939b15119a3d9d734a2fe92ab513626342d6c8d915343f41c18",
           "sha256": "79405acfb7adac53fd6b815e1cdce4d302013b52a1da777604f5ee0fbf0c98db",
           "sha1": "aa08cfb39b38c1816799c861546b1107e88d81c6",
           "md5": "0ada8e4bf917e68753b5c1b7f259d21b"
+=======
+          "sha512": "0d52aa774f4f69ebd7d247173b6f27ac4d3582a0d524fff2c7f9db2f4f4d923b1b575ad8ee3dc97541668b1bc4c16dab8cd1d8962685c2ef5e111a68db1c1520",
+          "sha256": "1e5a3873e3923b947ba4786066e3ea5de24fa3efdd385e49ccd5ab9b7459c3c1",
+          "sha1": "771194648f434e52247cee68f1d57837b266a73b",
+          "md5": "343a7dbcebeb54f521305e1d0f76d799"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "filedialogs-v156.1-sources.jar",
           "url": "filedialogs-v156.1-sources.jar",
           "size": 1476,
+<<<<<<< HEAD
           "sha512": "546ab0f5346e0119e43569c5b0be06646d2d96f2eaef43777b5cd1edcc667e1f15c40af741df8a8a8df7c52ad92b01fc235d2e83d34033e9021326b257af82d5",
           "sha256": "5bbb37b1c221727e10250d5bafc8e9fda0f50015822090a97d36438b90d35b9f",
           "sha1": "53656a72e620b73692f792e800797cd4625e8bb7",
           "md5": "0ef8825ab8b80f109c52a54ff2a0b36b"
+=======
+          "sha512": "916bf1002f10e22e2aad24bb535c517e45bbda0fab3d6a4746c4a6326ed160b3a5b1f407d9b246ae3bf0f1ba68fb5ac8acd9f1286e7c20d345b04147468b9478",
+          "sha256": "ed9c8a95382be8f8b18b40e563e6e8a1d461ce0a709995827a54ac8bf8ed5b6d",
+          "sha1": "0308819a03c7a952af8fa1f58f1fde8196a64725",
+          "md5": "98ac0391d053141c8204d31dc2b03279"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

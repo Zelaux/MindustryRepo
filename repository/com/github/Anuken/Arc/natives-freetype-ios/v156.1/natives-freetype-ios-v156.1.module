@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "natives-freetype-ios-v156.1.jar",
           "url": "natives-freetype-ios-v156.1.jar",
           "size": 2072833,
+<<<<<<< HEAD
           "sha512": "0b621ace0e922e002219d5609730ab7174539430e61889d44d7710cfe65a8f3a7f8c04da686babebeccc3b4776be19445867be77af6f0dee9931027218e05729",
           "sha256": "b681bfe4f293cdf60a76d0ad987da9bbcfb3a56b2c8b23d5753b2f7462bafbee",
           "sha1": "3ab8bbf8cd55485ce4c2cbaa6e8eece6aeea2cab",
           "md5": "71c1cd43dd0e5233dd0734f95494f1db"
+=======
+          "sha512": "c71230355ff03d4b8659f2b66b9e485a735dec8445f6ef027272a308bbfc69f83e0f53009af6a239dc1978181b7187597250d5018827417771922ed90ff88ed8",
+          "sha256": "85564ce07b638cfa80630dc04e89d35f0b97b80d6057729b4707c5cd67faa777",
+          "sha1": "f090b4e20dbdee48c4d5ff325c1856b4ccffe4de",
+          "md5": "dbdea006f3db3c23b0704229ce2da67f"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "natives-freetype-ios-v156.1.jar",
           "url": "natives-freetype-ios-v156.1.jar",
           "size": 2072833,
+<<<<<<< HEAD
           "sha512": "0b621ace0e922e002219d5609730ab7174539430e61889d44d7710cfe65a8f3a7f8c04da686babebeccc3b4776be19445867be77af6f0dee9931027218e05729",
           "sha256": "b681bfe4f293cdf60a76d0ad987da9bbcfb3a56b2c8b23d5753b2f7462bafbee",
           "sha1": "3ab8bbf8cd55485ce4c2cbaa6e8eece6aeea2cab",
           "md5": "71c1cd43dd0e5233dd0734f95494f1db"
+=======
+          "sha512": "c71230355ff03d4b8659f2b66b9e485a735dec8445f6ef027272a308bbfc69f83e0f53009af6a239dc1978181b7187597250d5018827417771922ed90ff88ed8",
+          "sha256": "85564ce07b638cfa80630dc04e89d35f0b97b80d6057729b4707c5cd67faa777",
+          "sha1": "f090b4e20dbdee48c4d5ff325c1856b4ccffe4de",
+          "md5": "dbdea006f3db3c23b0704229ce2da67f"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "natives-freetype-ios-v156.1-sources.jar",
           "url": "natives-freetype-ios-v156.1-sources.jar",
           "size": 2072833,
+<<<<<<< HEAD
           "sha512": "c867d39dc80596e684937bcc38c48ea0f371486f7c49ececff9db111717b20a393acf247b10f75e1e0ae3c6a72cbe32528671f5bb820face17f4e4755ed32de0",
           "sha256": "94a7f73f365e6f8cdd1a500c6673966e5c212b588da638061d96d4dfa87e2dfe",
           "sha1": "4c746d57ba02f2cb5c31d09d2c6fb84c65bb8f98",
           "md5": "dcbcb5608d4625b31e6b1d8426e72e29"
+=======
+          "sha512": "c71230355ff03d4b8659f2b66b9e485a735dec8445f6ef027272a308bbfc69f83e0f53009af6a239dc1978181b7187597250d5018827417771922ed90ff88ed8",
+          "sha256": "85564ce07b638cfa80630dc04e89d35f0b97b80d6057729b4707c5cd67faa777",
+          "sha1": "f090b4e20dbdee48c4d5ff325c1856b4ccffe4de",
+          "md5": "dbdea006f3db3c23b0704229ce2da67f"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -88,10 +92,17 @@
           "name": "core-v156.1.jar",
           "url": "core-v156.1.jar",
           "size": 5645122,
+<<<<<<< HEAD
           "sha512": "8bf307a76dbbedfefb69301da811f743fa71591f8d8c80b3f7b2d5857eb5b6ed93a1435a455275ce888645ef6a523d46f5d36ddbff4e65eea4249d27df33a041",
           "sha256": "3771c06dc64b493b2e81357105a48ec59ed2eb1d3e30dd9b9cafdd460834ea97",
           "sha1": "b520c512cbf36e1c557365197de7a8bae7b2e9bb",
           "md5": "12d234e6463b1850f2c78e1716b1f5fe"
+=======
+          "sha512": "b72209d5635a1b231caadfd72ff161fc43b69c701156bbbfbc7b63db6995c013abf23b72730732bc441fe7b7a3e0990c49cc97f544702ebd03b27c46fc8b752b",
+          "sha256": "90d93fe553676786b32cf90657cf19631ba8870b25ee1d8718223d0fc3124c9b",
+          "sha1": "e46ec0b0058dccbdea27b214aac0907f3ba920b9",
+          "md5": "9754419a1bb40f58dac69eb95fca72ff"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -169,10 +180,17 @@
           "name": "core-v156.1.jar",
           "url": "core-v156.1.jar",
           "size": 5645122,
+<<<<<<< HEAD
           "sha512": "8bf307a76dbbedfefb69301da811f743fa71591f8d8c80b3f7b2d5857eb5b6ed93a1435a455275ce888645ef6a523d46f5d36ddbff4e65eea4249d27df33a041",
           "sha256": "3771c06dc64b493b2e81357105a48ec59ed2eb1d3e30dd9b9cafdd460834ea97",
           "sha1": "b520c512cbf36e1c557365197de7a8bae7b2e9bb",
           "md5": "12d234e6463b1850f2c78e1716b1f5fe"
+=======
+          "sha512": "b72209d5635a1b231caadfd72ff161fc43b69c701156bbbfbc7b63db6995c013abf23b72730732bc441fe7b7a3e0990c49cc97f544702ebd03b27c46fc8b752b",
+          "sha256": "90d93fe553676786b32cf90657cf19631ba8870b25ee1d8718223d0fc3124c9b",
+          "sha1": "e46ec0b0058dccbdea27b214aac0907f3ba920b9",
+          "md5": "9754419a1bb40f58dac69eb95fca72ff"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -189,10 +207,17 @@
           "name": "core-v156.1-sources.jar",
           "url": "core-v156.1-sources.jar",
           "size": 1528475,
+<<<<<<< HEAD
           "sha512": "b5381370e175561fc3bdc6b433ee757d9e81ce63ca55b2f47f1e286c77ff19d8f145ff2bb8da404a03ef07f21fd0dc143dd094177165368ec3d463b08c5f0654",
           "sha256": "2a3076d397041ee7235415a158ea8a9f1ebffc9e9ce9a427ae98d82bb8bd2de9",
           "sha1": "e9dd7fc9d84bfa16e049600ea2eafd318415cf9b",
           "md5": "4811a0305e5c5f2b9e0f11326e371bd6"
+=======
+          "sha512": "f4fc55b2152c1264270afdb867dae770334bec463c4749a19502f0d81d920eb7fa2ef32cb8116e6eddde22997a3a70be123dfe288fd2e30788d39170ece0a9a0",
+          "sha256": "0c878ac56ca560861ebe38c7f21654324a2a53410696184e3c0c118698115434",
+          "sha1": "51d2558fe9b229c82497bc5f56a081380c1a99e3",
+          "md5": "658596f68a4066e7dec4272e42b347d5"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "extensions-v156.1.jar",
           "url": "extensions-v156.1.jar",
           "size": 261,
+<<<<<<< HEAD
           "sha512": "d9e42cdc56adbfb242d7e2c55a0ba41aa1af0db0dbae0dee0ea7431094c6ec21e001547416d8fbba18139981e62fc142d76d655da6a6f243d3f98ef92cfacdab",
           "sha256": "1c7171b252d191d7db79abadd1ffe7401d1b0ba5dbd981852fc1c9fc24b97911",
           "sha1": "dd039b63edcedc804336c6304c1f7895c013d9cb",
           "md5": "95ee85782af9a8836a5df2b875a5ba12"
+=======
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "extensions-v156.1.jar",
           "url": "extensions-v156.1.jar",
           "size": 261,
+<<<<<<< HEAD
           "sha512": "d9e42cdc56adbfb242d7e2c55a0ba41aa1af0db0dbae0dee0ea7431094c6ec21e001547416d8fbba18139981e62fc142d76d655da6a6f243d3f98ef92cfacdab",
           "sha256": "1c7171b252d191d7db79abadd1ffe7401d1b0ba5dbd981852fc1c9fc24b97911",
           "sha1": "dd039b63edcedc804336c6304c1f7895c013d9cb",
           "md5": "95ee85782af9a8836a5df2b875a5ba12"
+=======
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "extensions-v156.1-sources.jar",
           "url": "extensions-v156.1-sources.jar",
           "size": 261,
+<<<<<<< HEAD
           "sha512": "d9e42cdc56adbfb242d7e2c55a0ba41aa1af0db0dbae0dee0ea7431094c6ec21e001547416d8fbba18139981e62fc142d76d655da6a6f243d3f98ef92cfacdab",
           "sha256": "1c7171b252d191d7db79abadd1ffe7401d1b0ba5dbd981852fc1c9fc24b97911",
           "sha1": "dd039b63edcedc804336c6304c1f7895c013d9cb",
           "md5": "95ee85782af9a8836a5df2b875a5ba12"
+=======
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

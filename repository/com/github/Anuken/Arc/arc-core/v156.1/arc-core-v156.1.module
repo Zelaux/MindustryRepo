@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "arc-core-v156.1.jar",
           "url": "arc-core-v156.1.jar",
           "size": 1242686,
+<<<<<<< HEAD
           "sha512": "1a3ea987828161eb247a98b3df3c2e82db5d61d38a9d6399eaec39969049cb206ba6a40e5466362e8b70a287a766711b8de08d57bdaf5354f66bf962e64a98d7",
           "sha256": "120a4a5c30e0a79243457c69bb2f88e9d055df8a432dec082af0cdc61945e665",
           "sha1": "62d4e1710b87857695a90ba825415af4794e670f",
           "md5": "cc3916569da5cc0d35c38026fa4e5c4b"
+=======
+          "sha512": "a65c98f7e859b6e3b30974e6bc3ca797e0a17d2537ed2b474ff86994a81af908cdc09340eaaff5144cb7fcf80a536a5f3437a8acaf9f5b1f2091c683e46a137c",
+          "sha256": "9554cf05d678aa93f51d34084367e7d92603a4c061776da376a0787bd85d2346",
+          "sha1": "fe292a0ee33fc8c7c5f4fc5e74a8ae4f682ac9df",
+          "md5": "357176ef4cfe07ce04be85f61fabc037"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "arc-core-v156.1.jar",
           "url": "arc-core-v156.1.jar",
           "size": 1242686,
+<<<<<<< HEAD
           "sha512": "1a3ea987828161eb247a98b3df3c2e82db5d61d38a9d6399eaec39969049cb206ba6a40e5466362e8b70a287a766711b8de08d57bdaf5354f66bf962e64a98d7",
           "sha256": "120a4a5c30e0a79243457c69bb2f88e9d055df8a432dec082af0cdc61945e665",
           "sha1": "62d4e1710b87857695a90ba825415af4794e670f",
           "md5": "cc3916569da5cc0d35c38026fa4e5c4b"
+=======
+          "sha512": "a65c98f7e859b6e3b30974e6bc3ca797e0a17d2537ed2b474ff86994a81af908cdc09340eaaff5144cb7fcf80a536a5f3437a8acaf9f5b1f2091c683e46a137c",
+          "sha256": "9554cf05d678aa93f51d34084367e7d92603a4c061776da376a0787bd85d2346",
+          "sha1": "fe292a0ee33fc8c7c5f4fc5e74a8ae4f682ac9df",
+          "md5": "357176ef4cfe07ce04be85f61fabc037"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "arc-core-v156.1-sources.jar",
           "url": "arc-core-v156.1-sources.jar",
           "size": 697056,
+<<<<<<< HEAD
           "sha512": "5d6cafea306fe1d96c1f5ad13fc44b61f7a3f428bbb433a416f02d05e875ef5432862fd9a1c41630cee24a1b1fef9f2227a1d5d94740286e19a3b51f3398db4a",
           "sha256": "43ef14de50be471e995555b4773e8a57aaecc92412fcdf8a9aa9a065d1cd7222",
           "sha1": "bf23430d3c9776a94846660c9631778b1ac2a641",
           "md5": "26c547eb23ea8dd3360a8c1d95cb001a"
+=======
+          "sha512": "633d662a7242dbe0c653e97dd7f9e2012365edf0fe7838b1252db9f5463d64e3aa1e20382fcea54304ed1707ee9975372cdd99f5147fb48506115ab187fb1540",
+          "sha256": "1f914d93f14980b2fcef24bc3652b14dd045e7e9ec813c2547965087da4dec29",
+          "sha1": "462673c8bb27f7c41f1c43e8f0442fec2deaa3d1",
+          "md5": "7d21ae5df10385fec47a35107bedc870"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "tiled-v156.1.jar",
           "url": "tiled-v156.1.jar",
           "size": 42985,
+<<<<<<< HEAD
           "sha512": "c66b04614fcd969ca3c0fb488b066122343488a27a05240cb16da4df681524e8b8c11c8f55b84a60ecd3c0d79ddaf62397210b359699765183ab006cf2e21d3b",
           "sha256": "38f2878707df7d87797fb09c6414f6689faad1bbe72a8b14808b530cab33d77d",
           "sha1": "bf532a9f734c3e7d6e9a4cc531e0fc6172a98967",
           "md5": "eca8fab1579862eddf2c779df10c312c"
+=======
+          "sha512": "d5aefb340de89d7049a2617410c28d108931f4c26c4489c87b8c25936f17f911c7523500e99f09700bad6f6c5cd8e4a71becb006324346b8a73acb1f9cd12aef",
+          "sha256": "0ed2c561e1bed5d924554ddaae97097873676da81cd5dc9a29277595fdf689c5",
+          "sha1": "2677ce53b1dd1912a8cb7ac07ff7914741cb4fa5",
+          "md5": "b02e7ed9be916218cd2abba00581513c"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "tiled-v156.1.jar",
           "url": "tiled-v156.1.jar",
           "size": 42985,
+<<<<<<< HEAD
           "sha512": "c66b04614fcd969ca3c0fb488b066122343488a27a05240cb16da4df681524e8b8c11c8f55b84a60ecd3c0d79ddaf62397210b359699765183ab006cf2e21d3b",
           "sha256": "38f2878707df7d87797fb09c6414f6689faad1bbe72a8b14808b530cab33d77d",
           "sha1": "bf532a9f734c3e7d6e9a4cc531e0fc6172a98967",
           "md5": "eca8fab1579862eddf2c779df10c312c"
+=======
+          "sha512": "d5aefb340de89d7049a2617410c28d108931f4c26c4489c87b8c25936f17f911c7523500e99f09700bad6f6c5cd8e4a71becb006324346b8a73acb1f9cd12aef",
+          "sha256": "0ed2c561e1bed5d924554ddaae97097873676da81cd5dc9a29277595fdf689c5",
+          "sha1": "2677ce53b1dd1912a8cb7ac07ff7914741cb4fa5",
+          "md5": "b02e7ed9be916218cd2abba00581513c"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "tiled-v156.1-sources.jar",
           "url": "tiled-v156.1-sources.jar",
           "size": 23367,
+<<<<<<< HEAD
           "sha512": "5567902f2d993f6b6b2b7c5a5dfa2ef60e304e713e925058e582f5c3bd6ef5870848eaa102763911b841b200d66ab4721ba421c3e741af3d7ad31b9cb49e5255",
           "sha256": "4a50f532a03f3b3a2bc90c4738680d9ed073d0560a20d8b356414927113953d0",
           "sha1": "22a5f17c44c794e7891ed3b1891722d3ce205595",
           "md5": "5e599dbc8a77b0d8abb0716046d800ad"
+=======
+          "sha512": "4c881e8c2616d9cee5b8ef64ca42a42fa5faa72fedd06b5cf87a93d60d42c8950f3fe636e4c7fe35c993fdf7dc53b0d2b2b7688ff05a435b1d68e42e50a069ad",
+          "sha256": "982086e4f385d75f181199fc2b553ae1990b9f2c3681d7859841203c3a8dd89b",
+          "sha1": "03e0472f83e5ef70e98c80829f878b5c80774e97",
+          "md5": "9eec3a168658be8aa4f1f37c1ea89e4b"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

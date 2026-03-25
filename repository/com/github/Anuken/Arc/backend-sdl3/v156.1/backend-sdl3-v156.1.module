@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -358,10 +362,17 @@
           "name": "backend-sdl3-v156.1.jar",
           "url": "backend-sdl3-v156.1.jar",
           "size": 11380041,
+<<<<<<< HEAD
           "sha512": "bd56c2dec66fd30546885013aed2b61817a4145ad678374e75c0cbc438170bc00298de42222bb583a028e581a6458f93bd09a4b417d5dbe45a3993c3506acfa7",
           "sha256": "ef59228cc89b5c9bb55f50a44bd01c8bd13b2317d493b7ede6c2cb719c8e6d43",
           "sha1": "a9cd4e598d4674717e3bc3fce33b91229feb40fb",
           "md5": "4e9f01bfa435bfbd14902a2b65c927af"
+=======
+          "sha512": "50efe3b44ef8b665c05164ba0ec39629cc4d19321b4e061e58f49e487709ba58211d14da9ff40e92a452f27d8593bb160c9b313f09b4e833eb383107cdc75599",
+          "sha256": "3adbc67e686f8adcaa1b162bca1c8e7eb73887009d9861d7ac03684ec8d4aca5",
+          "sha1": "090bc7bb1340c3ce88373f4c83e8806c5e8a337d",
+          "md5": "33cf810d1ded585799c6a1e48473892b"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -709,10 +720,17 @@
           "name": "backend-sdl3-v156.1.jar",
           "url": "backend-sdl3-v156.1.jar",
           "size": 11380041,
+<<<<<<< HEAD
           "sha512": "bd56c2dec66fd30546885013aed2b61817a4145ad678374e75c0cbc438170bc00298de42222bb583a028e581a6458f93bd09a4b417d5dbe45a3993c3506acfa7",
           "sha256": "ef59228cc89b5c9bb55f50a44bd01c8bd13b2317d493b7ede6c2cb719c8e6d43",
           "sha1": "a9cd4e598d4674717e3bc3fce33b91229feb40fb",
           "md5": "4e9f01bfa435bfbd14902a2b65c927af"
+=======
+          "sha512": "50efe3b44ef8b665c05164ba0ec39629cc4d19321b4e061e58f49e487709ba58211d14da9ff40e92a452f27d8593bb160c9b313f09b4e833eb383107cdc75599",
+          "sha256": "3adbc67e686f8adcaa1b162bca1c8e7eb73887009d9861d7ac03684ec8d4aca5",
+          "sha1": "090bc7bb1340c3ce88373f4c83e8806c5e8a337d",
+          "md5": "33cf810d1ded585799c6a1e48473892b"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -729,10 +747,17 @@
           "name": "backend-sdl3-v156.1-sources.jar",
           "url": "backend-sdl3-v156.1-sources.jar",
           "size": 20073,
+<<<<<<< HEAD
           "sha512": "50fc30854a0056bb166a3406a65242edaeefa83e435e321f67ea2f15a83c1beee567a07d979378489b39aef00c17345f321c5c5dad3bf6cd50b2358b5bfec48f",
           "sha256": "e9d77dcc9a0d0ef98c8146423da2a51a183f5d5245b7c6882e95e8ba1f3c7957",
           "sha1": "ff43a7bb07bab7672575335b552199f528bf45a4",
           "md5": "b9a062f0f9a267e271fdb3097fe5a2df"
+=======
+          "sha512": "b1f6f6024ed5c325dc37cdbab51bd3af63b5e5a04ebad4a6346bcf92f345049afccc71141263e1b3fe2bd820da1fa0b305bf673bf0ed4a740f815139ba6a74ad",
+          "sha256": "314d5df48862d385dcc7deac408e6a6ad4e484086b0ccabe265e36da11d30d28",
+          "sha1": "4d98fef1f160b7f68cc6559c8f6f9ca429911418",
+          "md5": "a97632b9f1c5f9b497fdf1ad50426944"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

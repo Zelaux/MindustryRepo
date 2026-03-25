@@ -27,7 +27,10 @@
             <version>v155.2</version>
             <version>v155.3</version>
             <version>v155.4</version>
+<<<<<<< HEAD
             <version>v156</version>
+=======
+>>>>>>> 773c94b ([version-update])
             <version>v156.1</version>
         </versions>
         <lastUpdated>20230810012822</lastUpdated>

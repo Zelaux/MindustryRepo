@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "fx-v156.1.jar",
           "url": "fx-v156.1.jar",
           "size": 62586,
+<<<<<<< HEAD
           "sha512": "9f4624517ebea1b61377c0cc2cc33718864c8b6defe5d6e5c3da6ce51ba15fbcaf0804c8b39398c18a7a40d030be67a89da722d668bc1c30ac144c4f3c8bd935",
           "sha256": "48b33968e90b3abde3014f9d32e07fc08244edd6c78d75f839b1bf54b0407ccb",
           "sha1": "51cea7dba06a7968b24dc018cd6de9e9d7d9dfd9",
           "md5": "4e490b7b0498505eeeb054472312888c"
+=======
+          "sha512": "d79fb739a0a15fcf24184fbd6983a37aea86323ab39556a5a2100c3f2c39035911b985f0dda405355052f42257504da27076733260bf335d5e97d600019335d2",
+          "sha256": "0374ddc8e5e8e67c7c0dd548e6c29d4de705d9436de97f71911d8841b7939590",
+          "sha1": "12ad47e8b82c12af09d37e27dd5925bab763cb7f",
+          "md5": "ab9468b778886f88f3af713df3e063be"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "fx-v156.1.jar",
           "url": "fx-v156.1.jar",
           "size": 62586,
+<<<<<<< HEAD
           "sha512": "9f4624517ebea1b61377c0cc2cc33718864c8b6defe5d6e5c3da6ce51ba15fbcaf0804c8b39398c18a7a40d030be67a89da722d668bc1c30ac144c4f3c8bd935",
           "sha256": "48b33968e90b3abde3014f9d32e07fc08244edd6c78d75f839b1bf54b0407ccb",
           "sha1": "51cea7dba06a7968b24dc018cd6de9e9d7d9dfd9",
           "md5": "4e490b7b0498505eeeb054472312888c"
+=======
+          "sha512": "d79fb739a0a15fcf24184fbd6983a37aea86323ab39556a5a2100c3f2c39035911b985f0dda405355052f42257504da27076733260bf335d5e97d600019335d2",
+          "sha256": "0374ddc8e5e8e67c7c0dd548e6c29d4de705d9436de97f71911d8841b7939590",
+          "sha1": "12ad47e8b82c12af09d37e27dd5925bab763cb7f",
+          "md5": "ab9468b778886f88f3af713df3e063be"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "fx-v156.1-sources.jar",
           "url": "fx-v156.1-sources.jar",
           "size": 40350,
+<<<<<<< HEAD
           "sha512": "485a9f9cee757a5197eb283a1f2be2da8048067c6e663972d7a6952bc08203df3a0dcc46452f178805483f08b07774fc9dfd79c4ff2755df83237ca978460de4",
           "sha256": "3527ff5dde1fa705e02aa04d0539f20d28d10fa4f6ed048c112b06ec047e7b23",
           "sha1": "31c8ada044a56e51aa466930ec32099884114516",
           "md5": "f7de4c20f444c857d93b15a20b0abe44"
+=======
+          "sha512": "639648e5fa696b338ef8f869a8b7470756896bb59985dc1f9a738aeda45f072148bb596cb72b28cbec31926fedeceab4686df6c6fcf77ce5164ed0ce49cebded",
+          "sha256": "7a0621dad6f3bdf44339cd4c29199954143e05a773a4625c8554fd3256f7a1b7",
+          "sha1": "8dfcbf89f3182a601135937f7683a4d7d8cf6861",
+          "md5": "e494141aadb167a7bbb1063fbeb73bee"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

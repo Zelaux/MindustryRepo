@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -51,10 +55,17 @@
           "name": "backend-robovm-v156.1.jar",
           "url": "backend-robovm-v156.1.jar",
           "size": 80682,
+<<<<<<< HEAD
           "sha512": "72b93233bf9e5152d3463e17ec898d599c7c7fc7a8f6fc43a89b527074a78cd5ffc16feef200d11b093bfc016b1e388e5c401e0c32d427c3d703fc9e3d8609f6",
           "sha256": "f421e15c3f12ad744196c28a03efa15a88faca89997bcef7c021db10a0f3a8f0",
           "sha1": "9bdc2e72495cd119b78d73342ea5026524053378",
           "md5": "055fdc8266c34f07f5e0632c00295195"
+=======
+          "sha512": "f580cd301a12a934b81d5fbeaae30b602fd77557681b8fd99fd5b8f4ea11fd787f125c5a3cf606ce5ccf9bedca4f4ed7bb0e52f206478dcc640bd0be2c97022f",
+          "sha256": "dfe10182f13bff2327e1ae11d8f04215a71946017cb9a3f17174ae82858c5aaf",
+          "sha1": "e47084db1f98a56ff657eb0279dcc4f8678bd531",
+          "md5": "63d0a8a99c099d096ef8549b5529db54"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -95,10 +106,17 @@
           "name": "backend-robovm-v156.1.jar",
           "url": "backend-robovm-v156.1.jar",
           "size": 80682,
+<<<<<<< HEAD
           "sha512": "72b93233bf9e5152d3463e17ec898d599c7c7fc7a8f6fc43a89b527074a78cd5ffc16feef200d11b093bfc016b1e388e5c401e0c32d427c3d703fc9e3d8609f6",
           "sha256": "f421e15c3f12ad744196c28a03efa15a88faca89997bcef7c021db10a0f3a8f0",
           "sha1": "9bdc2e72495cd119b78d73342ea5026524053378",
           "md5": "055fdc8266c34f07f5e0632c00295195"
+=======
+          "sha512": "f580cd301a12a934b81d5fbeaae30b602fd77557681b8fd99fd5b8f4ea11fd787f125c5a3cf606ce5ccf9bedca4f4ed7bb0e52f206478dcc640bd0be2c97022f",
+          "sha256": "dfe10182f13bff2327e1ae11d8f04215a71946017cb9a3f17174ae82858c5aaf",
+          "sha1": "e47084db1f98a56ff657eb0279dcc4f8678bd531",
+          "md5": "63d0a8a99c099d096ef8549b5529db54"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -115,10 +133,17 @@
           "name": "backend-robovm-v156.1-sources.jar",
           "url": "backend-robovm-v156.1-sources.jar",
           "size": 45852,
+<<<<<<< HEAD
           "sha512": "b914551b610081b922aeacfd5d221d4b13a27223418664b81ec7b4af7250cbf6c20eeb27a777841c9b6feabdb97e6dd46aa6811ec796a6b89ce2865a50108be0",
           "sha256": "d84178bfb4c37cb165e70214b0c6495056beb7cf2ce580c4a07063046ad8f422",
           "sha1": "50fe2346c03dd684fa6c2fb87589a3cc223a7dfb",
           "md5": "6447cfe60b7464ebb0c00412a7799e84"
+=======
+          "sha512": "ffe22db4beff7d35eaa2dcf4039eeca966f5e9b5eca919deb79cd57a570a729c4127db332aee96e14f030ccefac6fff2ae94724d08c78e588be549211502a45f",
+          "sha256": "0409c49e15ef2b49c52abcd4aacf9ee24b9d5e05b004cff2042d76e09134122c",
+          "sha1": "4069b55f51db5b6cc70b541c0c17313a5f7528e2",
+          "md5": "fda4fdd943d068c439df9db803cb291a"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

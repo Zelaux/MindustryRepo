@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "arcnet-v156.1.jar",
           "url": "arcnet-v156.1.jar",
           "size": 51138,
+<<<<<<< HEAD
           "sha512": "36c687448b8722e13f2a8c55aa017422af600334e86f1ea054489d177a27a14f94c6a9c538c77d22f1aa60d945266b9df1fc576e2e544d17aa338b177b14ae07",
           "sha256": "d31e3b7d0b20a4e85b36a91a3a2627e5002a840bc4b79de15f8e2df023aa5d02",
           "sha1": "e5ddf3e014dbb9e1b17c670338c8dda6f4fbaf20",
           "md5": "baf33f238949226b97e7d9f2d939a4b1"
+=======
+          "sha512": "4068397e4708117e4ce493988433534568e17ae5aaaf5e8f6a0e5f1bf0cbad7ee831071974b7dcdf89b82f7b3227de7fd52b852d19eb5a37bc418dd8517e00a4",
+          "sha256": "0a358a11cd5551cc5241ea884d8ac7a8ec2f5e435f79de9a82262645c419440a",
+          "sha1": "b014bb6aa65249af18771015eebdf013d200e117",
+          "md5": "0ce9dd55a0184fcaa454ee0136dc6cec"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "arcnet-v156.1.jar",
           "url": "arcnet-v156.1.jar",
           "size": 51138,
+<<<<<<< HEAD
           "sha512": "36c687448b8722e13f2a8c55aa017422af600334e86f1ea054489d177a27a14f94c6a9c538c77d22f1aa60d945266b9df1fc576e2e544d17aa338b177b14ae07",
           "sha256": "d31e3b7d0b20a4e85b36a91a3a2627e5002a840bc4b79de15f8e2df023aa5d02",
           "sha1": "e5ddf3e014dbb9e1b17c670338c8dda6f4fbaf20",
           "md5": "baf33f238949226b97e7d9f2d939a4b1"
+=======
+          "sha512": "4068397e4708117e4ce493988433534568e17ae5aaaf5e8f6a0e5f1bf0cbad7ee831071974b7dcdf89b82f7b3227de7fd52b852d19eb5a37bc418dd8517e00a4",
+          "sha256": "0a358a11cd5551cc5241ea884d8ac7a8ec2f5e435f79de9a82262645c419440a",
+          "sha1": "b014bb6aa65249af18771015eebdf013d200e117",
+          "md5": "0ce9dd55a0184fcaa454ee0136dc6cec"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "arcnet-v156.1-sources.jar",
           "url": "arcnet-v156.1-sources.jar",
           "size": 27800,
+<<<<<<< HEAD
           "sha512": "23dafe3ea264df66e57d28a9e4278d96e978ed3b0967f54234fc48e577ff5de92feef3089b0d876ef5f7aabdd0aec784da36dacc7e479b3609a0b163534f318a",
           "sha256": "f25bf7c4a66f8e7ffc06e6c42d05c89a92a14386718d9ccc6869065c0530bd67",
           "sha1": "57fe44b44304cf142951dd95d39bad91a80850a3",
           "md5": "98184ab5f5f2458cb172d70fc9c360cc"
+=======
+          "sha512": "228963e0e08c047a7b2eb4c0563bd15c5766927ae8b758cb0af79c6ad632a446a9fa24b028c638c135befe3ec6fb85e934d3e47da668607e7e1e2de33a751807",
+          "sha256": "6b70240a088e303497e146d36c445cdaea50c97eecada9869c3f1186165f69d4",
+          "sha1": "c9737c44d1ff38613dc3aa762fd8dab56e358613",
+          "md5": "dfa07878f88507e533f32a9fe3597ff5"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

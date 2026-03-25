@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "g3d-v156.1.jar",
           "url": "g3d-v156.1.jar",
           "size": 45674,
+<<<<<<< HEAD
           "sha512": "6dde41bb6479e80a4a48da012be6a3911afa21d35a10977b4d617f71f8119e1dfedf9061dd5e901cf66ddbbe7b4f5c21361b9538fdb3330ba2dcd5aec061fb35",
           "sha256": "8d340c1e8cca03bb8d32f7c37de0ff2956b6572266f728f43ee57fcfcd090458",
           "sha1": "d0070b06675c50dda3526a08217ae5702bfa393d",
           "md5": "3158eceb68df285880b9e87665f59e26"
+=======
+          "sha512": "8f794e9602041048a80b1b76e3811c224116c4d3c5642f49127f7404136597b85ca7d3ae3d90f1b17ebd2af02b8cff906ab1153b263529d4f9ddf6024a113faf",
+          "sha256": "bc424a4154f7a49b5df74448948fd67f164346097c976e3fcec46c40763298bb",
+          "sha1": "12e56aac572588da1ddd6681caf99101ee75d032",
+          "md5": "4bf62d2c2fe6e1d8f0dcb191be57f54c"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "g3d-v156.1.jar",
           "url": "g3d-v156.1.jar",
           "size": 45674,
+<<<<<<< HEAD
           "sha512": "6dde41bb6479e80a4a48da012be6a3911afa21d35a10977b4d617f71f8119e1dfedf9061dd5e901cf66ddbbe7b4f5c21361b9538fdb3330ba2dcd5aec061fb35",
           "sha256": "8d340c1e8cca03bb8d32f7c37de0ff2956b6572266f728f43ee57fcfcd090458",
           "sha1": "d0070b06675c50dda3526a08217ae5702bfa393d",
           "md5": "3158eceb68df285880b9e87665f59e26"
+=======
+          "sha512": "8f794e9602041048a80b1b76e3811c224116c4d3c5642f49127f7404136597b85ca7d3ae3d90f1b17ebd2af02b8cff906ab1153b263529d4f9ddf6024a113faf",
+          "sha256": "bc424a4154f7a49b5df74448948fd67f164346097c976e3fcec46c40763298bb",
+          "sha1": "12e56aac572588da1ddd6681caf99101ee75d032",
+          "md5": "4bf62d2c2fe6e1d8f0dcb191be57f54c"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "g3d-v156.1-sources.jar",
           "url": "g3d-v156.1-sources.jar",
           "size": 35333,
+<<<<<<< HEAD
           "sha512": "7ef3dec26f55fec9df4b2d4abcd72dc1ace44554217273c9ba479652f6602f1c8b9c15fbdade2ada5d601d22cd9cc466ba062cf67d85f4b49fb786050fa1977c",
           "sha256": "81f111bc6bb9c86e81fd34308022d88cf8c3f9c1a132fa17024e39b0c6e09a45",
           "sha1": "8e156adbfd1d76088377b8dc1a4883d7a2e20e3e",
           "md5": "97a41e1e93e4e2f6032e142c205122b3"
+=======
+          "sha512": "451ca809c7041cf68fba3e33648a7d44fa8d03962a70246ff3a19019de6cfd02f11ac1b949d889881028787ec0c990b2047d6fff9b86c0f2da73120f14289767",
+          "sha256": "5eb3288009c132ed406344cdcf8d154e9d7479631bdac0d2a47edccfb520c0cb",
+          "sha1": "e94dc406e6f5abf32ce8335c59d4d1b8be6e8af7",
+          "md5": "888f5a39b2c1c7c4bdf055fe6872da1c"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }

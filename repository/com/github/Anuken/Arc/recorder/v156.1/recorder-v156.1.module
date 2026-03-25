@@ -10,7 +10,11 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
     }
   },
   "variants": [
@@ -28,10 +32,17 @@
           "name": "recorder-v156.1.jar",
           "url": "recorder-v156.1.jar",
           "size": 5720,
+<<<<<<< HEAD
           "sha512": "7a7c2e59b5b74b6203458cae3e3f62b15d5cedc27e7097c01588b2cdacab746a556e566d83689670d44982d864e47caef329d235743e533260557b929abc57ab",
           "sha256": "a632c9c29d2a9c75d6c6b6770fb776bcb20218b3b5a8532dc82d471c301e05b1",
           "sha1": "51271577f5dc176171772a031f4275d174945c86",
           "md5": "fa989a9a0695ecd925dda328edf1a1b1"
+=======
+          "sha512": "54af4989256d3a6e5bd52d18296e7aaeac932e89df8d3910d4393d06704ff6c79299fb44a74dc1711e98eb43af0ba705fc90c414c4c86feea022c7440980d7a6",
+          "sha256": "55368df4994443fb4a0a6d64d0e6ae49058d168f231f9b07617e6a1df0c33a40",
+          "sha1": "5b7b011114e822fef17aecd6e2a8cae56b701620",
+          "md5": "508d20f24121cefce8382ad1510aef10"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -49,10 +60,17 @@
           "name": "recorder-v156.1.jar",
           "url": "recorder-v156.1.jar",
           "size": 5720,
+<<<<<<< HEAD
           "sha512": "7a7c2e59b5b74b6203458cae3e3f62b15d5cedc27e7097c01588b2cdacab746a556e566d83689670d44982d864e47caef329d235743e533260557b929abc57ab",
           "sha256": "a632c9c29d2a9c75d6c6b6770fb776bcb20218b3b5a8532dc82d471c301e05b1",
           "sha1": "51271577f5dc176171772a031f4275d174945c86",
           "md5": "fa989a9a0695ecd925dda328edf1a1b1"
+=======
+          "sha512": "54af4989256d3a6e5bd52d18296e7aaeac932e89df8d3910d4393d06704ff6c79299fb44a74dc1711e98eb43af0ba705fc90c414c4c86feea022c7440980d7a6",
+          "sha256": "55368df4994443fb4a0a6d64d0e6ae49058d168f231f9b07617e6a1df0c33a40",
+          "sha1": "5b7b011114e822fef17aecd6e2a8cae56b701620",
+          "md5": "508d20f24121cefce8382ad1510aef10"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     },
@@ -69,10 +87,17 @@
           "name": "recorder-v156.1-sources.jar",
           "url": "recorder-v156.1-sources.jar",
           "size": 2907,
+<<<<<<< HEAD
           "sha512": "bd19c4324b4ba45e41d220dfe31b36310b7dfd4e4113d23c6af576190f0aa492e5c00ff6437748c7a6cd6ff0d14ab533a966f6e75817d58165eb5a0b0e8b4dd1",
           "sha256": "9bcd3d41af1c50b9fc461d8f987217df73d5bafb22b6627ae2035ec59bbfaec4",
           "sha1": "dc8f31e21d7db0e17e9fd8b6d19f08612792cb77",
           "md5": "9a089ed3fbb9eb880377ae921694d1ad"
+=======
+          "sha512": "72fb544eff052c48d72c58b9aacb5eb013ecf251e3288c62adca2210edacf3c6c0281419993502cd0d9ac92ab7c2813230df157c4133cd9f930cf5cd54c61d4f",
+          "sha256": "5bb3fc7c2de0e70863c6e6570262f594139c3067947cb96a8ee7042f08280cfc",
+          "sha1": "f586aff668e4b3a9f5c28e395323d906d5dd052d",
+          "md5": "b36e80b92d770bea2ed8053885ca752d"
+>>>>>>> 773c94b ([version-update])
         }
       ]
     }
