@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "filedialogs",
+    "version": "v156.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "filedialogs-v156.1.jar",
+          "url": "filedialogs-v156.1.jar",
+          "size": 1039,
+          "sha512": "0d52aa774f4f69ebd7d247173b6f27ac4d3582a0d524fff2c7f9db2f4f4d923b1b575ad8ee3dc97541668b1bc4c16dab8cd1d8962685c2ef5e111a68db1c1520",
+          "sha256": "1e5a3873e3923b947ba4786066e3ea5de24fa3efdd385e49ccd5ab9b7459c3c1",
+          "sha1": "771194648f434e52247cee68f1d57837b266a73b",
+          "md5": "343a7dbcebeb54f521305e1d0f76d799"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "filedialogs-v156.1.jar",
+          "url": "filedialogs-v156.1.jar",
+          "size": 1039,
+          "sha512": "0d52aa774f4f69ebd7d247173b6f27ac4d3582a0d524fff2c7f9db2f4f4d923b1b575ad8ee3dc97541668b1bc4c16dab8cd1d8962685c2ef5e111a68db1c1520",
+          "sha256": "1e5a3873e3923b947ba4786066e3ea5de24fa3efdd385e49ccd5ab9b7459c3c1",
+          "sha1": "771194648f434e52247cee68f1d57837b266a73b",
+          "md5": "343a7dbcebeb54f521305e1d0f76d799"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "filedialogs-v156.1-sources.jar",
+          "url": "filedialogs-v156.1-sources.jar",
+          "size": 1476,
+          "sha512": "916bf1002f10e22e2aad24bb535c517e45bbda0fab3d6a4746c4a6326ed160b3a5b1f407d9b246ae3bf0f1ba68fb5ac8acd9f1286e7c20d345b04147468b9478",
+          "sha256": "ed9c8a95382be8f8b18b40e563e6e8a1d461ce0a709995827a54ac8bf8ed5b6d",
+          "sha1": "0308819a03c7a952af8fa1f58f1fde8196a64725",
+          "md5": "98ac0391d053141c8204d31dc2b03279"
+        }
+      ]
+    }
+  ]
+}

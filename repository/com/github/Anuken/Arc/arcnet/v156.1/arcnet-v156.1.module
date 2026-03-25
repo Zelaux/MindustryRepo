@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "arcnet",
+    "version": "v156.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "arcnet-v156.1.jar",
+          "url": "arcnet-v156.1.jar",
+          "size": 51138,
+          "sha512": "4068397e4708117e4ce493988433534568e17ae5aaaf5e8f6a0e5f1bf0cbad7ee831071974b7dcdf89b82f7b3227de7fd52b852d19eb5a37bc418dd8517e00a4",
+          "sha256": "0a358a11cd5551cc5241ea884d8ac7a8ec2f5e435f79de9a82262645c419440a",
+          "sha1": "b014bb6aa65249af18771015eebdf013d200e117",
+          "md5": "0ce9dd55a0184fcaa454ee0136dc6cec"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "arcnet-v156.1.jar",
+          "url": "arcnet-v156.1.jar",
+          "size": 51138,
+          "sha512": "4068397e4708117e4ce493988433534568e17ae5aaaf5e8f6a0e5f1bf0cbad7ee831071974b7dcdf89b82f7b3227de7fd52b852d19eb5a37bc418dd8517e00a4",
+          "sha256": "0a358a11cd5551cc5241ea884d8ac7a8ec2f5e435f79de9a82262645c419440a",
+          "sha1": "b014bb6aa65249af18771015eebdf013d200e117",
+          "md5": "0ce9dd55a0184fcaa454ee0136dc6cec"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "arcnet-v156.1-sources.jar",
+          "url": "arcnet-v156.1-sources.jar",
+          "size": 27800,
+          "sha512": "228963e0e08c047a7b2eb4c0563bd15c5766927ae8b758cb0af79c6ad632a446a9fa24b028c638c135befe3ec6fb85e934d3e47da668607e7e1e2de33a751807",
+          "sha256": "6b70240a088e303497e146d36c445cdaea50c97eecada9869c3f1186165f69d4",
+          "sha1": "c9737c44d1ff38613dc3aa762fd8dab56e358613",
+          "md5": "dfa07878f88507e533f32a9fe3597ff5"
+        }
+      ]
+    }
+  ]
+}
