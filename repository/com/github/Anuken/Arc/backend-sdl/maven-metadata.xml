@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>backend-sdl</artifactId>
     <versioning>
-        <latest>v156</latest>
-        <release>v156</release>
+        <latest>v156.1</latest>
+        <release>v156.1</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -28,6 +28,7 @@
             <version>v155.3</version>
             <version>v155.4</version>
             <version>v156</version>
+            <version>v156.1</version>
         </versions>
         <lastUpdated>20230810012801</lastUpdated>
     </versioning>
