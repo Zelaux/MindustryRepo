@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "natives-filedialogs-v156.1.jar",
           "url": "natives-filedialogs-v156.1.jar",
           "size": 97259,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "f9f1f1b6b0abdab573cda8a67bfee4b097cbbe464474eda9bf7b202f5a01cea819fde6ad31da9b05410da0f94d448ba1e74ce5de2be232910d6928edd7a7f374",
+          "sha256": "191bb0b9f909783a465d79027faeaf209c7275bbdf2a3ae7366a4db99094d1b1",
+          "sha1": "2e08297c58d41dcc4333821bb64fc863ab39ce38",
+          "md5": "a51aacf8ef9e7026db2cfdb7748f4124"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "32fd919b066b0fbbb39fcfb022c7b34d3e36a1f34372e6d5e7bd964c4e333021ffa5a6c3af17f42998420f58b38a38f96d3decee2d6a00c6fd75cecff30d7da4",
           "sha256": "fe722be2e7450f4cfe2e1207a1295b3d9d26e457873b8760500a58c505f3610f",
           "sha1": "ad36d108db940c6be3c66b35d4de07ebe49d9b84",
           "md5": "6774d2517cf5492f4ec50834fedbcb36"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "natives-filedialogs-v156.1.jar",
           "url": "natives-filedialogs-v156.1.jar",
           "size": 97259,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "f9f1f1b6b0abdab573cda8a67bfee4b097cbbe464474eda9bf7b202f5a01cea819fde6ad31da9b05410da0f94d448ba1e74ce5de2be232910d6928edd7a7f374",
+          "sha256": "191bb0b9f909783a465d79027faeaf209c7275bbdf2a3ae7366a4db99094d1b1",
+          "sha1": "2e08297c58d41dcc4333821bb64fc863ab39ce38",
+          "md5": "a51aacf8ef9e7026db2cfdb7748f4124"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "32fd919b066b0fbbb39fcfb022c7b34d3e36a1f34372e6d5e7bd964c4e333021ffa5a6c3af17f42998420f58b38a38f96d3decee2d6a00c6fd75cecff30d7da4",
           "sha256": "fe722be2e7450f4cfe2e1207a1295b3d9d26e457873b8760500a58c505f3610f",
           "sha1": "ad36d108db940c6be3c66b35d4de07ebe49d9b84",
           "md5": "6774d2517cf5492f4ec50834fedbcb36"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "natives-filedialogs-v156.1-sources.jar",
           "url": "natives-filedialogs-v156.1-sources.jar",
           "size": 97259,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "76428340dee8d721c115965622a3ff62f6b06f0d08759c48705cd9fb3dc6bdd48afa5cbb65eccc48177c2fac82e20a0da91270e3e77aaba0a82aac81c469b5f1",
+          "sha256": "0877fa5caddcdc073648bed220f6e1cfc81bef5f47536d292046100b6c773af3",
+          "sha1": "a286170267d37cb8d8f58d5425671eb251bc3bde",
+          "md5": "fe9665ce7c9b04753692b27a421dce18"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "32fd919b066b0fbbb39fcfb022c7b34d3e36a1f34372e6d5e7bd964c4e333021ffa5a6c3af17f42998420f58b38a38f96d3decee2d6a00c6fd75cecff30d7da4",
           "sha256": "fe722be2e7450f4cfe2e1207a1295b3d9d26e457873b8760500a58c505f3610f",
           "sha1": "ad36d108db940c6be3c66b35d4de07ebe49d9b84",
           "md5": "6774d2517cf5492f4ec50834fedbcb36"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

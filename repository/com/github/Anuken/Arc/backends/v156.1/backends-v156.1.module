@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "backends-v156.1.jar",
           "url": "backends-v156.1.jar",
           "size": 261,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "21450da1cca9cbd45539da14de8b85481a900f29049f39d08ab7af9b7eeeb430515e9be514c2b3394535bfbcd4303a2cc7907829d8062d332fa9574b38788574",
+          "sha256": "baa7cc292ad494c13a542bd79543766f45b6ab565a9d580959b51968d24c432b",
+          "sha1": "cb3221d3eee450273595e0a2edf2dce52f936951",
+          "md5": "430b1d79885eafe5c773e16933b35f7e"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
           "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
           "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
           "md5": "f43436d6bec321290f6af228ad602604"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "backends-v156.1.jar",
           "url": "backends-v156.1.jar",
           "size": 261,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "21450da1cca9cbd45539da14de8b85481a900f29049f39d08ab7af9b7eeeb430515e9be514c2b3394535bfbcd4303a2cc7907829d8062d332fa9574b38788574",
+          "sha256": "baa7cc292ad494c13a542bd79543766f45b6ab565a9d580959b51968d24c432b",
+          "sha1": "cb3221d3eee450273595e0a2edf2dce52f936951",
+          "md5": "430b1d79885eafe5c773e16933b35f7e"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
           "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
           "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
           "md5": "f43436d6bec321290f6af228ad602604"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "backends-v156.1-sources.jar",
           "url": "backends-v156.1-sources.jar",
           "size": 261,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "21450da1cca9cbd45539da14de8b85481a900f29049f39d08ab7af9b7eeeb430515e9be514c2b3394535bfbcd4303a2cc7907829d8062d332fa9574b38788574",
+          "sha256": "baa7cc292ad494c13a542bd79543766f45b6ab565a9d580959b51968d24c432b",
+          "sha1": "cb3221d3eee450273595e0a2edf2dce52f936951",
+          "md5": "430b1d79885eafe5c773e16933b35f7e"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
           "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
           "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
           "md5": "f43436d6bec321290f6af228ad602604"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

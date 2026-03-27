@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "natives-freetype-android-v156.1.jar",
           "url": "natives-freetype-android-v156.1.jar",
           "size": 991652,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "6caf5a77c29e76157ca1e863783ecb266e3a6cc11ad323d4a2f7731b258f1960957afa0f53ded71105ae5b16d902d10fba4ee8b431c6b74895194ff58dd17e4b",
+          "sha256": "8eddc5e7fa7bafab7f39f94232a116c117dddb17313f8fe88e2723afbd642312",
+          "sha1": "68e3c5a7cdcc5f989852ad6b6dffb3543795399d",
+          "md5": "9d03ea287fc051994152b1e49102f129"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "2c84228c5d1d2521d0f8fec1ba7c9566fe6894ee48408fcb6de81b87f48abc0e38e4f4139c61ac4760f886472f14f5adfb490ee984b6084195724b87820ba9a0",
           "sha256": "0e6e433fa5b2ceff025dc90fcb14983d46c29a2e1a364766da1648c7b5e04937",
           "sha1": "46ab16fa0f8ead7b54873abbd6ee749bf5af4934",
           "md5": "9c004713c559cf287af48193e9ce2952"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "natives-freetype-android-v156.1.jar",
           "url": "natives-freetype-android-v156.1.jar",
           "size": 991652,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "6caf5a77c29e76157ca1e863783ecb266e3a6cc11ad323d4a2f7731b258f1960957afa0f53ded71105ae5b16d902d10fba4ee8b431c6b74895194ff58dd17e4b",
+          "sha256": "8eddc5e7fa7bafab7f39f94232a116c117dddb17313f8fe88e2723afbd642312",
+          "sha1": "68e3c5a7cdcc5f989852ad6b6dffb3543795399d",
+          "md5": "9d03ea287fc051994152b1e49102f129"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "2c84228c5d1d2521d0f8fec1ba7c9566fe6894ee48408fcb6de81b87f48abc0e38e4f4139c61ac4760f886472f14f5adfb490ee984b6084195724b87820ba9a0",
           "sha256": "0e6e433fa5b2ceff025dc90fcb14983d46c29a2e1a364766da1648c7b5e04937",
           "sha1": "46ab16fa0f8ead7b54873abbd6ee749bf5af4934",
           "md5": "9c004713c559cf287af48193e9ce2952"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "natives-freetype-android-v156.1-sources.jar",
           "url": "natives-freetype-android-v156.1-sources.jar",
           "size": 991652,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "0291eb9eea2bb3463df55db4972f3735e525e6e6008f33f259ec0a947d50d45c593601de1c8b4840da09ef8f101714ed5824ebe962ba2934006dac8a9cf8075f",
+          "sha256": "6b6bcd744225e332f84db9768be68948e35bc2518a02a66db23d3714b3e8a8f6",
+          "sha1": "b248643f7cd770fb1949733c3dc8ceba3fed5a91",
+          "md5": "451cb5d8253c41a9a2bf04dc6a21d78c"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "2c84228c5d1d2521d0f8fec1ba7c9566fe6894ee48408fcb6de81b87f48abc0e38e4f4139c61ac4760f886472f14f5adfb490ee984b6084195724b87820ba9a0",
           "sha256": "0e6e433fa5b2ceff025dc90fcb14983d46c29a2e1a364766da1648c7b5e04937",
           "sha1": "46ab16fa0f8ead7b54873abbd6ee749bf5af4934",
           "md5": "9c004713c559cf287af48193e9ce2952"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

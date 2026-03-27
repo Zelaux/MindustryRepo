@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "discord-v156.1.jar",
           "url": "discord-v156.1.jar",
           "size": 15281,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "07e0596b4af15c0f3bda46f953aad91a1148b1cae0c6528e8f7036a81d009622be6e2ea70cc76c8f2679b0edfaeae3f34902a241cbbd45192cdde07d136d95f2",
+          "sha256": "318e7102b1180fc1d45bfafc7d7121d4572945fffa792ed264c66272cd411c7d",
+          "sha1": "56b6b7b00b3bf9f2a971a2ff0cb9cb4984345280",
+          "md5": "1ac3a9151531324d69af328e1c5bb8a2"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "196ea66467f598cf6c66d6bc1ff99b0ec15f9e6ab35f1c0e6531aa43d132dce9e3c8aaf911ee8ab107da683bd15058ee958564f9943f26904791e1fe0213eff3",
           "sha256": "9ae4da79c9686c146ce426747976e9544d60221d84fb62a49f1dd964ee36c37b",
           "sha1": "73826d56ae64b07ad879252ed5135e2ce7023fd7",
           "md5": "2db4bfe50279eed89ded29a364fe9c3e"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "discord-v156.1.jar",
           "url": "discord-v156.1.jar",
           "size": 15281,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "07e0596b4af15c0f3bda46f953aad91a1148b1cae0c6528e8f7036a81d009622be6e2ea70cc76c8f2679b0edfaeae3f34902a241cbbd45192cdde07d136d95f2",
+          "sha256": "318e7102b1180fc1d45bfafc7d7121d4572945fffa792ed264c66272cd411c7d",
+          "sha1": "56b6b7b00b3bf9f2a971a2ff0cb9cb4984345280",
+          "md5": "1ac3a9151531324d69af328e1c5bb8a2"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "196ea66467f598cf6c66d6bc1ff99b0ec15f9e6ab35f1c0e6531aa43d132dce9e3c8aaf911ee8ab107da683bd15058ee958564f9943f26904791e1fe0213eff3",
           "sha256": "9ae4da79c9686c146ce426747976e9544d60221d84fb62a49f1dd964ee36c37b",
           "sha1": "73826d56ae64b07ad879252ed5135e2ce7023fd7",
           "md5": "2db4bfe50279eed89ded29a364fe9c3e"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "discord-v156.1-sources.jar",
           "url": "discord-v156.1-sources.jar",
           "size": 4426,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "1644b4209ef1e2839b851ac35526ed2dbdcee67949df728173c810f93799db17886d491f83ae8c4a5fa7f1948be04c8024abc75e0764e23b9bd0c187174da342",
+          "sha256": "078cb2de0de62e71e78173b4ac6c6612c1f4645d351cb817fdaacd5917b5f01c",
+          "sha1": "b12aa5b75313215d4402e5a33945ac46c5cf04cf",
+          "md5": "bf0c18dc579574f1efc59d6e99e6c685"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "60887107e40e059ca42634c7391b0086302a7c2ed477e66e55d9b333776d5be99d9bc920d6dd007d4efc060ed38142e12be15f6532d6b4b8cd13dd234c36741c",
           "sha256": "49bd516dcb151532c2c8b021305b2754f798f2f628104165b4358af80cff404d",
           "sha1": "271c5ece7fad1f3130fceee03c7da57fc8d97ec4",
           "md5": "9b8bd5456d54b6d530c990228207eab4"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

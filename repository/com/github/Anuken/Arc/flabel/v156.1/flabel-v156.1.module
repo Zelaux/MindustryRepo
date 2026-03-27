@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "flabel-v156.1.jar",
           "url": "flabel-v156.1.jar",
           "size": 33718,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "c8067fc243e266ef12494936dfc3942e24d72d82de9a402fc6ca627dacce475bf4590ed400ba585005a5f0a828e6835898e95e0dd3a276ccf470b63d09c13cae",
+          "sha256": "3fa1177553675b581b11b68fad9f0e2932b7d9bde18b8cbcc129e8127c6b7dee",
+          "sha1": "8d10e62483db16f72d76275fbbd985dcb911313c",
+          "md5": "b1ea8dfb3c98275b49bc1a1383091f55"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "7ad1066e2136dcbe03e421ad3b11949a55743ab4e933ac0493dfcacb4212d68467729fa795e4e758bbbea0cea1dd526f39c4ab871f8a9762b091b6ae2b50caf1",
           "sha256": "157ed40f9496e9a362b9c1653383a0b6d4882b710a57f9cd5c59ca3599eb18e8",
           "sha1": "ddffbf8a4582ca44d8fb9213199c90832ef7a8cf",
           "md5": "3db4f56918cd4da35be6c9d2d572f221"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "flabel-v156.1.jar",
           "url": "flabel-v156.1.jar",
           "size": 33718,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "c8067fc243e266ef12494936dfc3942e24d72d82de9a402fc6ca627dacce475bf4590ed400ba585005a5f0a828e6835898e95e0dd3a276ccf470b63d09c13cae",
+          "sha256": "3fa1177553675b581b11b68fad9f0e2932b7d9bde18b8cbcc129e8127c6b7dee",
+          "sha1": "8d10e62483db16f72d76275fbbd985dcb911313c",
+          "md5": "b1ea8dfb3c98275b49bc1a1383091f55"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "7ad1066e2136dcbe03e421ad3b11949a55743ab4e933ac0493dfcacb4212d68467729fa795e4e758bbbea0cea1dd526f39c4ab871f8a9762b091b6ae2b50caf1",
           "sha256": "157ed40f9496e9a362b9c1653383a0b6d4882b710a57f9cd5c59ca3599eb18e8",
           "sha1": "ddffbf8a4582ca44d8fb9213199c90832ef7a8cf",
           "md5": "3db4f56918cd4da35be6c9d2d572f221"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "flabel-v156.1-sources.jar",
           "url": "flabel-v156.1-sources.jar",
           "size": 20633,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "a0f9e2773f332320c2b9bd5f517ae464486a65850655b23a0b469474d9d18bc9923b4ec2deb0f46d17ade32c4cbec9d37e7039395b95a591d6060c87b74af3af",
+          "sha256": "bd43545cb7b3576f06a2dc5771caf37066cf9d9d806dcc8c1d0674e36df6b0d1",
+          "sha1": "3fe9b641e39ac19b5aad9257bed5a9906bc7c5c4",
+          "md5": "28d6623b5fd1e302889f456582545326"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "50e87f90853fcbfd312cc9ff3221bc994c759f27c85b20c07899ce5f506abec8510c1201a4d230296979ee527120a0e6191cdd7cce5818b4911da9f7369732c7",
           "sha256": "d0f51df305c6bf2db4631bcd843fa47c6ba46a14f1ef98a2cacdf2b40246bedc",
           "sha1": "61c31efed8f3a9f899e53b895a267b3034163a99",
           "md5": "4440ef75ab295adcd6a71bd4b80aad92"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

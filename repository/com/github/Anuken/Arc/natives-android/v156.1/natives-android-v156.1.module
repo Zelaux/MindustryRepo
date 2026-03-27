@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "natives-android-v156.1.jar",
           "url": "natives-android-v156.1.jar",
           "size": 1072621,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "899a6a9fcb0885c38f28b430497c379ac90596bd11f91092f5647d6edaed9ed1c7617c932297d6c7075593dddf2e65b52fcb1fd2b4a35c503da6ae4b1312b69c",
+          "sha256": "28080f92ee093bd6a4efe94b86d8d6f7116d92acb7cf3cec6c227e27b74df25a",
+          "sha1": "45a94fcf5ea69d666c6da6251a871827f09ff2b7",
+          "md5": "4d041fd208bb50c882abca661caf9d1d"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "14f54a062f49dae27b2e0fae9c93e9472cd338f30a60f5e682b6bd62f3bd8f8d612990201bd8cdd073912cd17a14ac1fb444b992185152a155d1baab80088538",
           "sha256": "c30a699a9b5aeaac5df855fa35e516847e1a146956130ced113467de92152aaa",
           "sha1": "5a66a1e87fb7643915e569f5b34f450f5ce184c4",
           "md5": "425e2e0c44decbcc2cfa97b20a4abe32"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "natives-android-v156.1.jar",
           "url": "natives-android-v156.1.jar",
           "size": 1072621,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "899a6a9fcb0885c38f28b430497c379ac90596bd11f91092f5647d6edaed9ed1c7617c932297d6c7075593dddf2e65b52fcb1fd2b4a35c503da6ae4b1312b69c",
+          "sha256": "28080f92ee093bd6a4efe94b86d8d6f7116d92acb7cf3cec6c227e27b74df25a",
+          "sha1": "45a94fcf5ea69d666c6da6251a871827f09ff2b7",
+          "md5": "4d041fd208bb50c882abca661caf9d1d"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "14f54a062f49dae27b2e0fae9c93e9472cd338f30a60f5e682b6bd62f3bd8f8d612990201bd8cdd073912cd17a14ac1fb444b992185152a155d1baab80088538",
           "sha256": "c30a699a9b5aeaac5df855fa35e516847e1a146956130ced113467de92152aaa",
           "sha1": "5a66a1e87fb7643915e569f5b34f450f5ce184c4",
           "md5": "425e2e0c44decbcc2cfa97b20a4abe32"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "natives-android-v156.1-sources.jar",
           "url": "natives-android-v156.1-sources.jar",
           "size": 1072621,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "ad727514de014410969e4eb15e6e150325e097f97db505ef97046da82d3ba8e6bd885a65c4b9dc2ad99fafe79e3d3e962bee0574417d2e1ec93266daffecd561",
+          "sha256": "38168ad4724315cc13ff8c1cf985f0e501428d9970d5151b2493a0d7614347ad",
+          "sha1": "d38caac763669566e2263bc2cf864f4b091ff8f4",
+          "md5": "7abbd63316f1b30aaced99b899150d9b"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "14f54a062f49dae27b2e0fae9c93e9472cd338f30a60f5e682b6bd62f3bd8f8d612990201bd8cdd073912cd17a14ac1fb444b992185152a155d1baab80088538",
           "sha256": "c30a699a9b5aeaac5df855fa35e516847e1a146956130ced113467de92152aaa",
           "sha1": "5a66a1e87fb7643915e569f5b34f450f5ce184c4",
           "md5": "425e2e0c44decbcc2cfa97b20a4abe32"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

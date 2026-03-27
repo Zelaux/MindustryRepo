@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "packer-v156.1.jar",
           "url": "packer-v156.1.jar",
           "size": 52630,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "8e733dc97ac32637898699701d82b68f3fecbe487e845a8dfe0c9529914fdb42a55fd1f35a96e6b737e8d26d9ffebf2b33d182cff6953b596e861979c41848a4",
+          "sha256": "0d2fa5f56a926d685fb921bf2cdfff71707fdf79e57eab35dd3eb9cf2c985431",
+          "sha1": "0f08e6801c01736203d4836a1d37ae618667a3c4",
+          "md5": "ed9ed96e9d52895ac91c2d80e999749c"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1a3657360a4657940a2d3aabd6cef047104dc9688ca5c0a0eb7dd174c706ce05c692cd16dc13f49391a59bd804621a2165099789d7a4b810e26cfd340c5f83bf",
           "sha256": "919b66e269bc54e8d8b4221489e63f58154f8f173cc14e39d0efe98107b34661",
           "sha1": "c74c01bce26ad21bf40b61e62e41a3089d409336",
           "md5": "ebc7f4b452fce178018f862dfca45c30"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "packer-v156.1.jar",
           "url": "packer-v156.1.jar",
           "size": 52630,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "8e733dc97ac32637898699701d82b68f3fecbe487e845a8dfe0c9529914fdb42a55fd1f35a96e6b737e8d26d9ffebf2b33d182cff6953b596e861979c41848a4",
+          "sha256": "0d2fa5f56a926d685fb921bf2cdfff71707fdf79e57eab35dd3eb9cf2c985431",
+          "sha1": "0f08e6801c01736203d4836a1d37ae618667a3c4",
+          "md5": "ed9ed96e9d52895ac91c2d80e999749c"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1a3657360a4657940a2d3aabd6cef047104dc9688ca5c0a0eb7dd174c706ce05c692cd16dc13f49391a59bd804621a2165099789d7a4b810e26cfd340c5f83bf",
           "sha256": "919b66e269bc54e8d8b4221489e63f58154f8f173cc14e39d0efe98107b34661",
           "sha1": "c74c01bce26ad21bf40b61e62e41a3089d409336",
           "md5": "ebc7f4b452fce178018f862dfca45c30"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "packer-v156.1-sources.jar",
           "url": "packer-v156.1-sources.jar",
           "size": 24170,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "f5955f24dc6e3de354847e16ea4079b0d3d1a88ff47827171985cef75e442ef93fbd558a8d669f2756a3091c961c51bed129f43582fb1e58af54dafc67c6fc69",
+          "sha256": "d80d0bfe1ceefa24f808bc994cb0681d87acbbf0f7af7a1a0c40a925e3356b9e",
+          "sha1": "b69ead728214e5d8082c8c8b3cc02f728b73802e",
+          "md5": "afb39778bbbbce011842b290fc0e7ff9"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "2785cb5733ce106d836c2b053eca1bdb9eb210e8ddfff01accb5e0905e5a21f0a7d6f7783680733083ee46c27628f64d8dabd3affdd7a238652f4614b3126f34",
           "sha256": "2fd69332c5925232be5015e3760e55f1956c02abda2a9ea26f716a06ba7929f9",
           "sha1": "73aeeaa5b586350e344ddbcbedc6ab84d531fe30",
           "md5": "7dccff1c150ab6e4c0f8f70aba807e57"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

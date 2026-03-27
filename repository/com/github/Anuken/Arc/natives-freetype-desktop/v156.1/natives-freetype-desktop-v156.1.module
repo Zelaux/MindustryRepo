@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "natives-freetype-desktop-v156.1.jar",
           "url": "natives-freetype-desktop-v156.1.jar",
           "size": 900078,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "3ce84eb7e53075560a19ece56cf7c9e1e7a185a067d086c40f15836d556468a8da41097462bad1e1dc0807eee57d52a113c21f58d38f85ad0793c7a0332f325d",
+          "sha256": "bde83ddca02f1812dadfebc9321119fca2c32c57d842996e0a277ee037d7765c",
+          "sha1": "6ce82142c2b927e7490ed78accecd4cde1d16f76",
+          "md5": "8af005521b1f06d910afca087a2a9e1e"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "4b62be86843f38fd0f45049313c804ee3f0c1c0248f2bdc5e07eff4c6ce8c141683c0f978cf9ea979c5d12e837d680579e90e4b885e6f63c558700b8e4987155",
           "sha256": "9d9a31ef0a1dff759bcaff8d9733dd2f894fc8922183362e2fdbff33d70721cb",
           "sha1": "12c44fc678d5a5f24cfdf1f463435b325ccbe30a",
           "md5": "d04b20bbd0bf6c5f5425a5a57e7f35b7"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "natives-freetype-desktop-v156.1.jar",
           "url": "natives-freetype-desktop-v156.1.jar",
           "size": 900078,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "3ce84eb7e53075560a19ece56cf7c9e1e7a185a067d086c40f15836d556468a8da41097462bad1e1dc0807eee57d52a113c21f58d38f85ad0793c7a0332f325d",
+          "sha256": "bde83ddca02f1812dadfebc9321119fca2c32c57d842996e0a277ee037d7765c",
+          "sha1": "6ce82142c2b927e7490ed78accecd4cde1d16f76",
+          "md5": "8af005521b1f06d910afca087a2a9e1e"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "4b62be86843f38fd0f45049313c804ee3f0c1c0248f2bdc5e07eff4c6ce8c141683c0f978cf9ea979c5d12e837d680579e90e4b885e6f63c558700b8e4987155",
           "sha256": "9d9a31ef0a1dff759bcaff8d9733dd2f894fc8922183362e2fdbff33d70721cb",
           "sha1": "12c44fc678d5a5f24cfdf1f463435b325ccbe30a",
           "md5": "d04b20bbd0bf6c5f5425a5a57e7f35b7"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "natives-freetype-desktop-v156.1-sources.jar",
           "url": "natives-freetype-desktop-v156.1-sources.jar",
           "size": 900078,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "281840cdf72e6980cc27b4b9761420d90d614344c24300271c073f3ddd3c478e0b1558ed4c24485cfbce56508f2939fe8fa4b23b5c224d578192a8876c0eaa87",
+          "sha256": "413c6ea87a4ef56b52f6b65d574ee27e5d9afa789f147555a6c702da6d143028",
+          "sha1": "ff60a3be4cd80ec1b361f6fb3dd8a7729bdfd35e",
+          "md5": "10201594033ef9831a0abbb78db77408"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "4b62be86843f38fd0f45049313c804ee3f0c1c0248f2bdc5e07eff4c6ce8c141683c0f978cf9ea979c5d12e837d680579e90e4b885e6f63c558700b8e4987155",
           "sha256": "9d9a31ef0a1dff759bcaff8d9733dd2f894fc8922183362e2fdbff33d70721cb",
           "sha1": "12c44fc678d5a5f24cfdf1f463435b325ccbe30a",
           "md5": "d04b20bbd0bf6c5f5425a5a57e7f35b7"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "backend-android-v156.1.jar",
           "url": "backend-android-v156.1.jar",
           "size": 69667,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "4476fadeab96be1bea836abeaa1c76a5a12c423e62caa34168d72f7d81f7f3b8b6238257850768d11f2c42673a2ae1eb35828f22b9a9ab95b1606add8ea135e3",
+          "sha256": "9cd5af42ee3b2a30eef598961029b7743d48f780c263227bb737b6a3ab2f40d5",
+          "sha1": "21e5e40617848665f849d10f61c7e20e41d12961",
+          "md5": "046080f57145513b0d19d18ec406c19d"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "9fbf13f76fc16373bfb93b2527e68e3302761c104434d48799d2871e7c669442ccdf8f853fc3c0bb77ede8e32b74972d2d73800babc69cd7594641a3b05841d3",
           "sha256": "0d74824e200534211884210a16aa06d84e8d1ff3340d5c815142bfc722a67197",
           "sha1": "19d4e86d6a437dc128f89711e1dcb79e051cf093",
           "md5": "db47e653772704fc73c69d580a576dbc"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "backend-android-v156.1.jar",
           "url": "backend-android-v156.1.jar",
           "size": 69667,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "4476fadeab96be1bea836abeaa1c76a5a12c423e62caa34168d72f7d81f7f3b8b6238257850768d11f2c42673a2ae1eb35828f22b9a9ab95b1606add8ea135e3",
+          "sha256": "9cd5af42ee3b2a30eef598961029b7743d48f780c263227bb737b6a3ab2f40d5",
+          "sha1": "21e5e40617848665f849d10f61c7e20e41d12961",
+          "md5": "046080f57145513b0d19d18ec406c19d"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "9fbf13f76fc16373bfb93b2527e68e3302761c104434d48799d2871e7c669442ccdf8f853fc3c0bb77ede8e32b74972d2d73800babc69cd7594641a3b05841d3",
           "sha256": "0d74824e200534211884210a16aa06d84e8d1ff3340d5c815142bfc722a67197",
           "sha1": "19d4e86d6a437dc128f89711e1dcb79e051cf093",
           "md5": "db47e653772704fc73c69d580a576dbc"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "backend-android-v156.1-sources.jar",
           "url": "backend-android-v156.1-sources.jar",
           "size": 36704,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "c0815cb5dff294d3e8190a17dfc31596e8ad8f4e513183197a90ff0c98354b6430f6732c0e3007b32b9158ccdbc6bb4c1234bab09813f19b5d52856436a43008",
+          "sha256": "2d70649f01fb6fe680879a81e0384101bbcd3a7c9b64ef50d9aac783158d51bb",
+          "sha1": "0a807055d186fd0083ed50e1b0e7788d2fc8565b",
+          "md5": "0d343690e1a6fb0582b9cee86357d6ac"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "18ef76e01735c7fb07b14dc20eeca9b7ff1cc9eeeadcdb3e3889cd434e9eddd739de236f9570230f176b4157de09ccbc0c562147472aaf84da6abb95bff47847",
           "sha256": "5a20b6281a87d58ff61302ccc1d9fc06482f755f5210bb4ee863cf10193037f6",
           "sha1": "041934c9725ff21119eed3d97770b63e8caadbb3",
           "md5": "cda876d90c6bc33f62076526da22abf6"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

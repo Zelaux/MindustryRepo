@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "server-v156.1.jar",
           "url": "server-v156.1.jar",
           "size": 34391,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "74544aa85445f73d661c88bb1dde12b07d038be649106d4780e5d4dd8bd038dbc1fbc975c0e8220f68706a1be9e17d4e3709abce152f972785a8b66902af6897",
+          "sha256": "21e5c14ee4bc2794d81a839f5da85a43aed7ff69545059502c3455e3a3ff4b33",
+          "sha1": "292359ff71a07c2e8b40e27c4049145725c6c018",
+          "md5": "bfd721b5e1a53594efe52982cc8298e3"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "4aee86c05758b26a0622a2287bb25c2b921013c2643a37ea05c2db7d8e25e61f2759532ea2826c91717e9722e1d1a68701260ebd2040c880cd15d44f12985093",
           "sha256": "4f86cd290591345b2b9d1583790c2793f38d9e4069ee8b09787f047d310d802e",
           "sha1": "ce5cc87d1d7bf1a7a60bca11c397ff10d095721a",
           "md5": "c2ec82db8b6ae40957858cd45a20d528"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -65,10 +86,23 @@
           "name": "server-v156.1.jar",
           "url": "server-v156.1.jar",
           "size": 34391,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "74544aa85445f73d661c88bb1dde12b07d038be649106d4780e5d4dd8bd038dbc1fbc975c0e8220f68706a1be9e17d4e3709abce152f972785a8b66902af6897",
+          "sha256": "21e5c14ee4bc2794d81a839f5da85a43aed7ff69545059502c3455e3a3ff4b33",
+          "sha1": "292359ff71a07c2e8b40e27c4049145725c6c018",
+          "md5": "bfd721b5e1a53594efe52982cc8298e3"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "4aee86c05758b26a0622a2287bb25c2b921013c2643a37ea05c2db7d8e25e61f2759532ea2826c91717e9722e1d1a68701260ebd2040c880cd15d44f12985093",
           "sha256": "4f86cd290591345b2b9d1583790c2793f38d9e4069ee8b09787f047d310d802e",
           "sha1": "ce5cc87d1d7bf1a7a60bca11c397ff10d095721a",
           "md5": "c2ec82db8b6ae40957858cd45a20d528"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -85,10 +119,23 @@
           "name": "server-v156.1-sources.jar",
           "url": "server-v156.1-sources.jar",
           "size": 13437,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "d3e229f5c5547dd9a95abd340446ff0dda35a87df7829e798783dd35a52fed15ce9c2cf6e17c16e7f2186b7a2e257708ad0468e79902f84b8c66919d69165e59",
+          "sha256": "04d5ed1432cd10444ec7ea28ea59028710e0e65d01e7d31fbf1bdb22987011d1",
+          "sha1": "90893063d4365567f6a780180bd713ca7bcf8be5",
+          "md5": "dd83e8a0841931c9496790c2452a3ac5"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1f4017f25f54bd10fa71b6a6cd2fa10a1bfa9b01208d387de479d1b8a6662d8bffd5a1b84f25263eab2c3b2a837c61eae51693d5de0c73a50d295f01b0e298ca",
           "sha256": "33e7741d3a6e15f14cd08919eba70a365ab10eac11f1dc030ef9b442282de35d",
           "sha1": "4ba3fbae6f63e9282827a116785e4c482c864b9d",
           "md5": "341ae5cd88db31e60c3607590a329d55"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }

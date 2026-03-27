@@ -10,7 +10,15 @@
   },
   "createdBy": {
     "gradle": {
+<<<<<<< HEAD
       "version": "9.3.1"
+=======
+<<<<<<< HEAD
+      "version": "8.10"
+=======
+      "version": "9.3.1"
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
     }
   },
   "variants": [
@@ -28,10 +36,23 @@
           "name": "natives-v156.1.jar",
           "url": "natives-v156.1.jar",
           "size": 261,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "9f703547709587fa3df3a290037ee85d71d5409bf44f2ca95f616772e7a053c38761d9a5e80805f316d71b76d4264f18a32d1d04c4d32b4680f7ba3342bf5f41",
+          "sha256": "8291eaa4ed5f586e6f6cfa6f997d278ff9d03d7b823e20a09efe581bf6e2130c",
+          "sha1": "ab808648792712c73da4eb92beaa464dd518f4ae",
+          "md5": "9934673e2a35d909c28ad995af5dc42c"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
           "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
           "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
           "md5": "f43436d6bec321290f6af228ad602604"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -49,10 +70,23 @@
           "name": "natives-v156.1.jar",
           "url": "natives-v156.1.jar",
           "size": 261,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "9f703547709587fa3df3a290037ee85d71d5409bf44f2ca95f616772e7a053c38761d9a5e80805f316d71b76d4264f18a32d1d04c4d32b4680f7ba3342bf5f41",
+          "sha256": "8291eaa4ed5f586e6f6cfa6f997d278ff9d03d7b823e20a09efe581bf6e2130c",
+          "sha1": "ab808648792712c73da4eb92beaa464dd518f4ae",
+          "md5": "9934673e2a35d909c28ad995af5dc42c"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
           "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
           "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
           "md5": "f43436d6bec321290f6af228ad602604"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     },
@@ -69,10 +103,23 @@
           "name": "natives-v156.1-sources.jar",
           "url": "natives-v156.1-sources.jar",
           "size": 261,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "sha512": "9f703547709587fa3df3a290037ee85d71d5409bf44f2ca95f616772e7a053c38761d9a5e80805f316d71b76d4264f18a32d1d04c4d32b4680f7ba3342bf5f41",
+          "sha256": "8291eaa4ed5f586e6f6cfa6f997d278ff9d03d7b823e20a09efe581bf6e2130c",
+          "sha1": "ab808648792712c73da4eb92beaa464dd518f4ae",
+          "md5": "9934673e2a35d909c28ad995af5dc42c"
+=======
+>>>>>>> 00SunRay00-master
           "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
           "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
           "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
           "md5": "f43436d6bec321290f6af228ad602604"
+<<<<<<< HEAD
+=======
+>>>>>>> 773c94b ([version-update])
+>>>>>>> 00SunRay00-master
         }
       ]
     }
